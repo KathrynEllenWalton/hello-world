@@ -1,2 +1,3 @@
 # hello-world
-testing 1.2.
+testing1.2...
+I am in my 3rd year of a Creative Writers degree @ RMIT
